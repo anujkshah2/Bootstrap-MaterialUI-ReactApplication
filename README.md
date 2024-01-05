@@ -1,5 +1,5 @@
 # Bootstrap-MaterialUI-ReactApplication
-#Screenshots
+## Screenshots
 ![image 1.1](/public/images/img1.png)
 ![image 1.1](/public/images/img2.png)
 ![image 1.1](/public/images/img3.png)
